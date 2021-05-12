@@ -1,0 +1,26 @@
+[
+    {
+        "personal":[{"name":"Ramesh","gender":"Male","age":"30 Years","exp":"Yes"}],
+        "contact":[{
+            "mobile":"9876543211","email":"react@react.com","city":"Bangalore",
+            "address":"Bangalore,Karnatka"
+        }],
+        "education":[
+            {"board":"10th State Board","city":"Pune","year":"2014","marks":"65%"},
+            {"board":"12th State Board","city":"mumbai","year":"2016","marks":"65%"},
+            {"board":"B.E","city":"Chennai","year":"2020","marks":"65%"}
+        ]
+    },
+    {
+        "personal":[{"name":"Gamesh","gender":"Male","age":"30 Years","exp":"Yes"}],
+        "contact":[{
+            "mobile":"9876543212","email":"react@react.com","city":"Bangalore",
+            "address":"Mumbai,Karnatka"
+        }],
+        "education":[
+            {"board":"10th State Board","city":"Pune","year":"2014","marks":"65%"},
+            {"board":"12th State Board","city":"mumbai","year":"2016","marks":"65%"},
+            {"board":"B.E","city":"Chennai","year":"2020","marks":"65%"}
+        ]
+    }
+]

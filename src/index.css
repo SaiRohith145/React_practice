@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana;
+
+}
+nav{
+  margin: 0px;
+  background: black;
+  padding: 15px;
+}
+
+.menu{
+  padding: 15px;
+  color:white;
+  text-decoration: none;
+}
+.menu:hover{
+  color: green;
+  background: skyblue;
+}
+
+.menu:active{
+  background: yellow;
+  color:red;
+}
+
+
+

@@ -1,0 +1,8 @@
+[
+    {"name":"abc","age":"12","mobile":"9876543211","hobbie":["read","write"]},
+    {"name":"bca","age":"13","mobile":"9876543212","hobbie":["play","write"]},
+    {"name":"cab","age":"21","mobile":"9876543213","hobbie":["read","sing"]},
+    {"name":"efg","age":"32","mobile":"9876543214","hobbie":["dance","write"]},
+    {"name":"fge","age":"43","mobile":"9876543215","hobbie":["read","paint"]},
+    {"name":"gef","age":"54","mobile":"9876543216","hobbie":["read"]}
+]
